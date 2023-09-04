@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://github.com/pranjalkuhikar/My_Stuff/assets/99873964/66276e8f-dad1-4173-ba52-fbff97ca13f9"  />
 
 ###
 
@@ -41,11 +41,5 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pranjalkuhikar/pranjalkuhikar/output/snake.svg" alt="Snake animation" />
 
 ###
