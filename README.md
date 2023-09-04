@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/pranjalkuhikar/My_Stuff/assets/99873964/66276e8f-dad1-4173-ba52-fbff97ca13f9"  />
+<img align="right" height="150" src="https://github.com/pranjalkuhikar/pranjalkuhikar/assets/99873964/9cb1ae56-9982-42e0-b0a7-d7676f89aea5"  />
 
 ###
 
