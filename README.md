@@ -1,7 +1,5 @@
 <h1 align="left">Hi 👋! My name is Pranjal Kuhikar and I'm a Web Developer from India.</h1>
 
-<img align="right" height="250" width="200" src="https://github.com/pranjalkuhikar/pranjalkuhikar/assets/99873964/9cb1ae56-9982-42e0-b0a7-d7676f89aea5"  />
-
 ###
 
 <div align="left">
