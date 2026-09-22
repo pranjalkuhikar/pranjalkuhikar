@@ -6,7 +6,7 @@
 🌍 Open to collaboration and new opportunities
 
 [![Profile Views](https://komarev.com/ghpvc/?username=pranjalkuhikar&label=Profile+Views&color=blue&style=for-the-badge)](https://komarev.com/ghpvc/?username=pranjalkuhikar)
-
+ 
 ---
 
 ## 📊 GitHub Stats
