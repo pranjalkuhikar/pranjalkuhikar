@@ -5,7 +5,6 @@
 🤖 Currently building GenAI RAG pipelines using LangChain, Pinecone, and Gemini  
 🌍 Open to collaboration and new opportunities
 
-
 [![Profile Views](https://komarev.com/ghpvc/?username=pranjalkuhikar&label=Profile+Views&color=blue&style=for-the-badge)](https://komarev.com/ghpvc/?username=pranjalkuhikar)
 
 ---
