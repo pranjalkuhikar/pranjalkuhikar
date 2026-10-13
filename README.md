@@ -130,5 +130,4 @@
 > "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 [![Profile Views](https://komarev.com/ghpvc/?username=pranjalkuhikar&label=Profile+Views&color=blue&style=flat)](https://komarev.com/ghpvc/?username=pranjalkuhikar)
-[![Profile Views](https://komarev.com/ghpvc/?username=pranjalkuhikar&label=Profile+Views&color=blue&style=for-the-badge)](https://komarev.com/ghpvc/?username=pranjalkuhikar)
  
