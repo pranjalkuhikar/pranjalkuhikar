@@ -4,7 +4,7 @@
 🚀 From architecture to deployment — owned production infrastructure solo (Nginx, PM2, SSL, zero-downtime deploys)  
 🤖 Currently building GenAI RAG pipelines using LangChain, Pinecone, and Gemini  
 🌍 Open to collaboration and new opportunities
-  
+   
 ---
  
 ## 📊 GitHub Stats
