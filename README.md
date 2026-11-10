@@ -4,16 +4,18 @@
 🚀 From architecture to deployment — owned production infrastructure solo (Nginx, PM2, SSL, zero-downtime deploys)  
 🤖 Currently building GenAI RAG pipelines using LangChain, Pinecone, and Gemini  
 🌍 Open to collaboration and new opportunities
-       
+
 ---
-   
+
 ## 📊 GitHub Stats
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranjalkuhikar&theme=dark&hide_border=true)
- 
+
 ---
- 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-kuhikar/) 
+
+## 🌐 Connect With Me-
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-kuhikar/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KuhikarPranjal)
 [![Portfolio](https://img.shields.io/badge/Portfolio-pranjalkuhikar.com-orange?style=flat&logo=firefox&logoColor=white)](https://pranjalkuhikar.com)
 
@@ -39,6 +41,7 @@
 ## 🎓 Featured Projects
 
 ### 🎵 SonicFlow - Distributed Music Streaming Backend
+
 **Tech:** Node.js, Express.js, MongoDB, Microservices, CloudAMQP, Redis, Multer, ImageKit  
 [![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat&logo=github)](https://github.com/pranjalkuhikar/SonicFlow)
 • Architected distributed backend with 4 independent Node.js microservices: Auth, Music, Notification, Client  
@@ -47,6 +50,7 @@
 • Redis caching for sessions and frequent queries to reduce MongoDB reads
 
 ### 🏦 NeuroBank - Digital Banking Platform
+
 **Tech:** MERN Stack, React Native, Microservices, CloudAMQP, JWT Auth  
 [![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat&logo=github)](https://github.com/pranjalkuhikar/NeuroBank)
 • Full-stack digital banking simulation with 5 backend microservices  
@@ -55,6 +59,7 @@
 • Server-side idempotency checks to prevent duplicate transactions
 
 ### 🤖 DocuChat - RAG-Based AI Knowledge Assistant
+
 **Tech:** Next.js, Node.js, LangChain, Gemini API, Pinecone, Vector Store, RAG  
 [![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat&logo=github)](https://github.com/pranjalkuhikar/DocuChat)
 • AI-powered document chatbot answering questions from uploaded PDFs using RAG  
@@ -66,6 +71,7 @@
 ## 💻 Tech Stack
 
 ### 🎨 Frontend
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
@@ -76,11 +82,13 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 
 ### 📱 Mobile
+
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37)
 ![NativeWind](https://img.shields.io/badge/NativeWind-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Microservices](https://img.shields.io/badge/Microservices-blue?style=flat&logo=kubernetes&logoColor=white)
@@ -89,17 +97,20 @@
 ![RBAC](https://img.shields.io/badge/RBAC-red?style=flat&logo=lock&logoColor=white)
 
 ### 🗄️ Databases & Caching
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-blue?style=flat&logo=pinecone&logoColor=white)
 
 ### 🤖 AI / LLM
+
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=flat&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-purple?style=flat&logo=opensearch&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat&logo=googlegemini&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-orange?style=flat&logo=openai&logoColor=white)
 
 ### ☁️ Infrastructure & DevOps
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
@@ -111,6 +122,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
 ### 🛠️ Tools & Testing
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-brightgreen?style=flat&logo=githubactions&logoColor=white)
@@ -121,6 +133,7 @@
 ---
 
 ## 🎯 Currently Exploring
+
 - Advanced RAG architectures and multi-agent systems
 - System design patterns for scalable microservices
 - Performance optimization for large-scale React applications
@@ -130,4 +143,3 @@
 > "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 [![Profile Views](https://komarev.com/ghpvc/?username=pranjalkuhikar&label=Profile+Views&color=blue&style=flat)](https://komarev.com/ghpvc/?username=pranjalkuhikar)
- 
