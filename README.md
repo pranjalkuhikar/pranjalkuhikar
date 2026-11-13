@@ -6,7 +6,7 @@
 <a href="https://github.com/pranjalkuhikar">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=14B8A6&center=true&vCenter=true&width=720&lines=3%2B+years+shipping+production+applications;Architecture+%E2%86%92+deployment%2C+owned+end+to+end;Building+GenAI+RAG+pipelines+with+LangChain+%26+Gemini;Open+to+collaboration+and+new+opportunities" alt="Typing intro" />
 </a>
-
+ 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-kuhikar/)
