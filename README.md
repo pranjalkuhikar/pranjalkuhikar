@@ -54,14 +54,7 @@ const pranjal = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-//<img height="170" src="https://github-readme-stats.vercel.app/api?username=pranjalkuhikar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-//<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalkuhikar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com/?user=pranjalkuhikar&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
-
-//<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalkuhikar&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Contribution graph" width="100%" />
-
 </div>
 
 <!-- ═══════════════════════════ TECH ═══════════════════════════ -->
