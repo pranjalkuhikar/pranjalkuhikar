@@ -45,7 +45,7 @@ const pranjal = {
   openToWork: true,
 };
 ```
-
+  
 </td>
 </tr>
 </table>
