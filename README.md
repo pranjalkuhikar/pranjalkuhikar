@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
- 
+    
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:14b8a6&height=200&section=header&text=Pranjal%20Kuhikar&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20MERN%20%C2%B7%20React%20Native%20%C2%B7%20GenAI&descSize=18&descAlignY=58" width="100%" alt="Pranjal Kuhikar banner" />
   
 <a href="https://github.com/pranjalkuhikar">
