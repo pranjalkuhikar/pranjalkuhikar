@@ -2,7 +2,7 @@
 <div align="center">
     
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:14b8a6&height=200&section=header&text=Pranjal%20Kuhikar&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20MERN%20%C2%B7%20React%20Native%20%C2%B7%20GenAI&descSize=18&descAlignY=58" width="100%" alt="Pranjal Kuhikar banner" />
-   
+
 <a href="https://github.com/pranjalkuhikar">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=14B8A6&center=true&vCenter=true&width=720&lines=3%2B+years+shipping+production+applications;Architecture+%E2%86%92+deployment%2C+owned+end+to+end;Building+GenAI+RAG+pipelines+with+LangChain+%26+Gemini;Open+to+collaboration+and+new+opportunities" alt="Typing intro" />
 </a>
