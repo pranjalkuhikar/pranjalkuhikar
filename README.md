@@ -18,6 +18,15 @@
 
 <br/>
 
+<!-- ═══════════════════════════ INTENT ═══════════════════════════ -->
+## 🎯 What I'm looking for
+
+**Full-stack engineer** role on a product team — MERN / Next.js / React Native, with a
+strong side-interest in **testing and observability** (Playwright tooling, metrics, load
+testing) that I'd like to keep using professionally.
+
+📍 Nagpur, India · 🕐 IST (UTC+5:30) · ✅ open to remote, hybrid or relocation · 📫 kuhikarpranjal@gmail.com
+
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 ## 👋 About Me
 
@@ -29,6 +38,7 @@ I'm a **Full Stack Developer** who takes products from idea to production.
 
 - 💻 **3+ years** shipping production apps across **React, React Native and Node.js**
 - 🚀 Owned production infrastructure solo: **Nginx, PM2, SSL, zero-downtime deploys**
+- 🧪 Also build the tooling: **Playwright lab, test dashboard, load tester with 371 unit tests**
 - 🤖 Currently building **GenAI RAG pipelines** with **LangChain, Pinecone and Gemini**
 - 🌍 **Open to collaboration** and new opportunities
 
@@ -50,29 +60,20 @@ const pranjal = {
 </tr>
 </table>
 
-<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-## 📊 GitHub Stats
+<!-- ═══════════════════════════ START HERE ═══════════════════════════ -->
+## 🔎 Start here
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=pranjalkuhikar&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
-</div>
+Three minutes, four files — if you'd rather read code than READMEs:
 
-<!-- ═══════════════════════════ TECH ═══════════════════════════ -->
-## 💻 Tech Stack
-
-<div align="center">
-
-| | |
+| File | What it shows |
 |:--|:--|
-| **🎨 Frontend** | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593d88?style=flat-square&logo=redux&logoColor=white) ![RTK Query](https://img.shields.io/badge/RTK_Query-593d88?style=flat-square&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **📱 Mobile** | ![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white) ![NativeWind](https://img.shields.io/badge/NativeWind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **⚙️ Backend** | ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=61DAFB) ![Microservices](https://img.shields.io/badge/Microservices-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![RBAC](https://img.shields.io/badge/RBAC-DC2626?style=flat-square&logo=letsencrypt&logoColor=white) |
-| **🗄️ Data & Caching** | ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white) |
-| **🤖 AI / LLM** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square&logo=opensearch&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-F97316?style=flat-square&logo=openai&logoColor=white) |
-| **☁️ Infra & DevOps** | ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![CloudAMQP](https://img.shields.io/badge/CloudAMQP-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-| **🛠️ Tools & Testing** | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-16A34A?style=flat-square&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white) |
+| [`transition.controller.js`](https://github.com/pranjalkuhikar/NeuroBank/blob/main/transition/src/controllers/transition.controller.js) | Idempotent transfers: key pre-check, status replay, unique index |
+| [`rabbit.js`](https://github.com/pranjalkuhikar/SonicFlow/blob/main/Auth/src/broker/rabbit.js) · [`listener.js`](https://github.com/pranjalkuhikar/SonicFlow/blob/main/Notification/src/broker/listener.js) | One event crossing two services over CloudAMQP |
+| [`rag.js`](https://github.com/pranjalkuhikar/DocuChat/blob/main/server/src/utils/rag.js) | The whole RAG pipeline: load → split → embed → upsert → retrieve → answer |
+| [`guard.js`](https://github.com/pranjalkuhikar/load-tester/blob/main/lib/guard.js) | Loopback-only request guard, so a load tester can't become a DDoS tool |
 
-</div>
+Each project ends with a **⚠️ Known limitations** section — what it doesn't do is
+written down, not left for you to discover.
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 ## 🚀 Featured Projects
@@ -91,6 +92,8 @@ const pranjal = {
 
 <sub>`Node.js` `Express` `MongoDB` `CloudAMQP` `JWT` `Multer` `ImageKit`</sub>
 
+<sub>▶ Run locally — 4 services + MongoDB + CloudAMQP · [known limitations](https://github.com/pranjalkuhikar/SonicFlow#known-limitations)</sub>
+
 <br/><br/>
 
 [![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/pranjalkuhikar/SonicFlow)
@@ -108,6 +111,8 @@ const pranjal = {
 
 <sub>`MERN` `React Native` `Microservices` `CloudAMQP` `JWT`</sub>
 
+<sub>▶ Run locally — 5 services + MongoDB + CloudAMQP · [known limitations](https://github.com/pranjalkuhikar/NeuroBank#known-limitations)</sub>
+
 <br/><br/>
 
 [![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/pranjalkuhikar/NeuroBank)
@@ -124,6 +129,8 @@ const pranjal = {
 
 <sub>`Next.js` `Node.js` `LangChain` `Gemini API` `Pinecone`</sub>
 
+<sub>[![CI](https://github.com/pranjalkuhikar/DocuChat/actions/workflows/ci.yml/badge.svg)](https://github.com/pranjalkuhikar/DocuChat/actions/workflows/ci.yml) · [known limitations](https://github.com/pranjalkuhikar/DocuChat#known-limitations)</sub>
+
 <br/><br/>
 
 [![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/pranjalkuhikar/DocuChat)
@@ -136,6 +143,9 @@ const pranjal = {
 
 | Project | What it is | Stack | Links |
 |:--|:--|:--|:--|
+| ⚡ **LoadLab** | Self-hosted load tester: auto-detects local endpoints, live percentile charts, **371 unit tests in CI** | Next.js · Node · custom load engine | [Code](https://github.com/pranjalkuhikar/load-tester) |
+| 📊 **Test Dashboard** | Paste a repo, get test coverage by layer with per-test drill-down and history | Next.js · Postgres · Playwright | [Code](https://github.com/pranjalkuhikar/Test-Dashboard) |
+| 🔐 **Todo Platform** | Four apps behind one SSO hub, with Prometheus + Grafana + Loki wired in | Next.js · Postgres · Docker · Microservices | [Code](https://github.com/pranjalkuhikar/Todo-Platform) |
 | 🎬 **CineVerse** | Movie search & browse app powered by TMDB | Next.js · Tailwind · TMDB | [Live](https://movie-app-nine-khaki.vercel.app/) · [Code](https://github.com/pranjalkuhikar/CineVerse) |
 | 😊 **Beat Sync** | AI mood & music app: webcam face detection picks your music | React · face-api · Deezer API | [Live](https://beatsync-plum.vercel.app/) · [Code](https://github.com/pranjalkuhikar/VibeBeats) |
 | 📹 **Aora** | Social video-sharing mobile app | React Native · Appwrite · Tailwind | [Code](https://github.com/pranjalkuhikar/Aora) |
@@ -185,8 +195,25 @@ const pranjal = {
 
 </details>
 
+<!-- ═══════════════════════════ TECH ═══════════════════════════ -->
+## 💻 Tech Stack
+
+<div align="center">
+
+| | |
+|:--|:--|
+| **🎨 Frontend** | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593d88?style=flat-square&logo=redux&logoColor=white) ![RTK Query](https://img.shields.io/badge/RTK_Query-593d88?style=flat-square&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **📱 Mobile** | ![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white) ![NativeWind](https://img.shields.io/badge/NativeWind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **⚙️ Backend** | ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=61DAFB) ![Microservices](https://img.shields.io/badge/Microservices-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![RBAC](https://img.shields.io/badge/RBAC-DC2626?style=flat-square&logo=letsencrypt&logoColor=white) |
+| **🗄️ Data & Caching** | ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white) |
+| **🤖 AI / LLM** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square&logo=opensearch&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-F97316?style=flat-square&logo=openai&logoColor=white) |
+| **☁️ Infra & DevOps** | ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![CloudAMQP](https://img.shields.io/badge/CloudAMQP-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+| **🛠️ Tools & Testing** | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-16A34A?style=flat-square&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white) |
+
+</div>
+
 <!-- ═══════════════════════════ EXPLORING ═══════════════════════════ -->
-## 🎯 Currently Exploring
+## 🌱 Currently Exploring
 
 | 🧠 | 🏛️ | ⚡ | 🐳 |
 |:--|:--|:--|:--|
