@@ -87,9 +87,9 @@ const pranjal = {
 - 4 independent Node.js microservices: Auth, Music, Notification, Client
 - Async service communication via **CloudAMQP** message queues
 - Dual-role auth (Artists / Users) with **JWT + RBAC**
-- **Redis** caching for sessions and frequent queries to reduce MongoDB reads
+- **Multer → ImageKit** upload pipeline for audio and artwork
 
-<sub>`Node.js` `Express` `MongoDB` `Redis` `CloudAMQP` `Multer` `ImageKit`</sub>
+<sub>`Node.js` `Express` `MongoDB` `CloudAMQP` `JWT` `Multer` `ImageKit`</sub>
 
 <br/><br/>
 
