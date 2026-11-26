@@ -139,7 +139,7 @@ const pranjal = {
 | 🎬 **CineVerse** | Movie search & browse app powered by TMDB | Next.js · Tailwind · TMDB | [Live](https://movie-app-nine-khaki.vercel.app/) · [Code](https://github.com/pranjalkuhikar/CineVerse) |
 | 😊 **Beat Sync** | AI mood & music app: webcam face detection picks your music | React · face-api · Deezer API | [Live](https://beatsync-plum.vercel.app/) · [Code](https://github.com/pranjalkuhikar/VibeBeats) |
 | 📹 **Aora** | Social video-sharing mobile app | React Native · Appwrite · Tailwind | [Code](https://github.com/pranjalkuhikar/Aora) |
-| 🏠 **Airbnb clone** | Listings app with auth, uploads and maps | Node · Express · MongoDB · Passport · Cloudinary | [Live](https://airbnb-run1.onrender.com/listings) · [Code](https://github.com/pranjalkuhikar/Airbnb) |
+| 🏠 **Airbnb clone** | Listings app with auth, uploads and maps | Node · Express · MongoDB · Passport · Cloudinary | [Live](https://airbnb-run1.onrender.com/listings) <sub>(free tier — first load ~20s)</sub> · [Code](https://github.com/pranjalkuhikar/Airbnb) |
 | ✍️ **Blog** | CMS-driven blog with light/dark mode | Next.js · Sanity · TypeScript · Shadcn | [Live](https://blog-zeta-wheat-68.vercel.app/) · [Code](https://github.com/pranjalkuhikar/blog) |
 | 🛒 **E-Commerce** | Storefront on a headless CMS | Next.js · Sanity | [Live](https://e-commerce-eosin-seven-90.vercel.app/) · [Code](https://github.com/pranjalkuhikar/E_Commerce) |
 | 🎨 **LogoLumina** | Logo creation website | React · Vite · html2canvas | [Live](https://logo-lumina.vercel.app/) · [Code](https://github.com/pranjalkuhikar/LogoLumina) |
