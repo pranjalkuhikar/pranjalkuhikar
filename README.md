@@ -2,7 +2,7 @@
 <div align="center">
     
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:14b8a6&height=200&section=header&text=Pranjal%20Kuhikar&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Engineer%20%C2%B7%20React%20%C2%B7%20TypeScript%20%C2%B7%20Micro-Frontends%20%C2%B7%20Playwright&descSize=17&descAlignY=58" width="100%" alt="Pranjal Kuhikar banner" />
- 
+  
 <a href="https://github.com/pranjalkuhikar">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=14B8A6&center=true&vCenter=true&width=760&lines=Frontend+Engineer+%7C+React+%26+TypeScript;300%2B+Playwright+E2E+tests+wired+into+CI;Micro-frontends+%E2%86%92+API+gateway+%E2%86%92+production;Bengaluru+%E2%80%A2+immediate+joiner" alt="Typing intro" />
 </a>
